@@ -12,6 +12,6 @@ This repository contains my earned certifications in:
 
 These certificates showcase my learning path and dedication towards mastering data analytics tools and techniques.
 
-📫 LinkedIn: [Sairaj Rudrapelly](https://www.linkedin.com/in/sairaj-rudrapelly-a099372a4)
+📫Connect with me on LinkedIn: [Sairaj Rudrapelly](https://www.linkedin.com/in/sairaj-rudrapelly-a099372a4)
 
 Thanks for visiting!
